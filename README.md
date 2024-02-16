@@ -1,5 +1,5 @@
 # PDF Merge
-A simple GUI for merging pdf files and images.
+A simple Windows GUI for merging pdf files and images.
 
 ### Usage
 - Clone this repo `git clone https://github.com/peviss/PDFMerge.git`
